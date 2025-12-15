@@ -51,8 +51,7 @@ What made them vulnerable?
 2. **OHLCV Market Data** (1992-2025)
    - Daily: Open, High, Low, Close, Volume
    - Coverage: Full trading history to delisting date
-   - Source: Polygon.io historical archives
-
+    - Source: Finnhub.io historical archives
 ### Temporal Coverage
 ```
 1992 ▓░░░░░░░░░ Early data (sparse)
