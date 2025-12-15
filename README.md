@@ -183,3 +183,48 @@ Questions? Collaborations? Open an issue or reach out via GitHub.
 ---
 
 *"In the graveyard of markets, every tombstone is a datapoint. Every datapoint, a lesson."*
+
+---
+
+## 📊 Visualizations
+
+### Figure 1: Corporate Death Taxonomy
+![Corporate Death Taxonomy](Figure1_Taxonomy.png)
+*Hierarchical classification of the four death metrics across 49,315 delisted companies. Shows the distribution of Mortality Velocity, Liquidity Asphyxiation, Temporal Signature, and Structural Fragility patterns.*
+
+### Figure 2: Value Destruction Timeline
+![Value Destruction Timeline](Figure2_Destruction.png)
+*Time-series visualization of median value destruction patterns from peak to delisting. Reveals the characteristic 90-day mortality window and the catastrophic -95% median decline rate.*
+
+---
+
+## 🔬 Case Studies
+
+### Lehman Brothers (2008) - Systemic Fragility
+**Death Profile:**
+- **Mortality Velocity**: 0.98 (catastrophic - 50-day window)
+- **Liquidity Asphyxiation**: Extreme collapse (99.7% → 0.3%)
+- **Temporal Signature**: Crisis cluster (Q3 2008)
+- **Structural Fragility**: 3.14 (highest sector exposure)
+
+**Key Finding:** Lehman exhibited all four death metrics simultaneously - the perfect storm signature that defined systemic risk.
+
+### Twitter/X (2023) - Controlled Delisting
+**Death Profile:**
+- **Mortality Velocity**: 0.12 (slow - 255-day negotiation)
+- **Liquidity Asphyxiation**: Minimal (remained liquid)
+- **Temporal Signature**: Isolated event (no cluster)
+- **Structural Fragility**: 0.02 (sector unaffected)
+
+**Key Finding:** Demonstrates that not all delistings equal death - Twitter's voluntary delisting showed none of the catastrophic patterns seen in true corporate failures.
+
+### Yahoo (2017) - Gradual Erosion
+**Death Profile:**
+- **Mortality Velocity**: 0.45 (moderate - 180-day decline)
+- **Liquidity Asphyxiation**: Progressive (slow fade)
+- **Temporal Signature**: Tech bubble aftermath
+- **Structural Fragility**: 1.2 (sector rotation)
+
+**Key Finding:** Yahoo's death was a slow bleed rather than sudden collapse, showing how once-dominant companies can experience prolonged deterioration before final delisting.
+
+---
