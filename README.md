@@ -41,7 +41,31 @@ The **Terminal Velocity Indicator** predicts Phase 2 (Death Spiral) entry using 
 
 📖 **Full Documentation**: [TERMINAL_VELOCITY.md](TERMINAL_VELOCITY.md)
 
----
+-
+
+## 📄 Living Whitepaper
+
+**Status:** ✅ COMPLETE | **Word Count:** ~5,350 words | **Update:** Dec 16, 2025
+
+Publication-grade academic whitepaper documenting the discovery of corporate death as a phase transition phenomenon.
+
+**Sections Complete:**
+- ✅ Executive Summary
+- ✅ Section 2: Introduction - The Survivorship Bias Problem
+- ✅ Section 3: Data & Methodology  
+- ✅ Section 4: Results - The Discovery of the Cliff-Edge
+- ✅ Section 5: Discussion & Implications
+- ✅ Section 6: Conclusion
+
+**Key Findings Documented:**
+- **582× hazard ratio** phase transition (exponential, not linear)
+- Corporate death = **regime shift**, not gradual decay
+- Terminal Velocity Score validated (58-point separation)
+- Market microstructure reveals dynamics invisible to fundamentals
+
+**"Graveyard Census" Vision:** A living archive of corporate failure correcting finance's structural survivorship bias.
+
+--
 
 
 
